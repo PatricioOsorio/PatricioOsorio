@@ -35,7 +35,6 @@ Aquí encontrarás una selección de mis proyectos más destacados:
 ¡Me encantaría conectar contigo! Puedes encontrarme en:
 
 - 💼 [LinkedIn](www.linkedin.com/in/patricio-osorio)
-- 🌐 [GitHub](github.com/PatricioOsorio)
 - 📧 Correo electrónico: <PatricioMiguel_12@hotmail.com>
 - 📞 Teléfono: [+52 282 101 2041](tel:+522821012041)
 
