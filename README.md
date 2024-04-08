@@ -37,7 +37,7 @@ Aquí encontrarás una selección de mis proyectos más destacados:
 - 💼 [LinkedIn](https://www.linkedin.com/in/patricio-osorio)
 - 📧 Correo electrónico: <PatricioMiguel_12@hotmail.com>
 - 📞 Teléfono: [+52 282 101 2041](tel:+522821012041)
-- 📄 [Descargar mi CV](https://github.com/PatricioOsorio/PatricioOsorio/blob/main/cv-patricio-miguel-osorio-osorio.pdf)
+- 📄 [Descargar mi CV](https://github.com/PatricioOsorio/PatricioOsorio/raw/main/cv-patricio-miguel-osorio-osorio.pdf)
 
 
 ## ¡Hablemos! 💬
