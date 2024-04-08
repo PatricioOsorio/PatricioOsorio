@@ -5,22 +5,22 @@
 ## Acerca de Mí 🚀
 
 - 💻 Desarrollador de software con experiencia en diseño, desarrollo e implementación de sistemas web y APIs.
-- 🌍 Ubicación: Puebla, México
-- 📚 Siempre aprendiendo y compartiendo conocimientos
-- 📚 Graduado en Técnico Superior Universitario en Desarrollo de Software Multiplataforma y Ingeniera en Desarrollo y Gestión de Software en la Universidad Tecnológica de Puebla
+- 🌍 Ubicación: Puebla, México.
+- 📚 Siempre aprendiendo y compartiendo conocimientos.
+- 📚 Graduado en Técnico Superior Universitario en Desarrollo de Software Multiplataforma e Ingeniería en Desarrollo y Gestión de Software en la Universidad Tecnológica de Puebla.
 
 ## Mis Intereses 🤔
 
-- 🌐 Desarrollo Web, APIs y tecnologías .NET
-- 🔒 Seguridad Informática y Privacidad de Datos
-- 🌱 Tecnologías Emergentes y Tendencias Tecnológicas
+- 🌐 Desarrollo Web, APIs y tecnologías .NET.
+- 🔒 Seguridad Informática y Privacidad de Datos.
+- 🌱 Tecnologías Emergentes y Tendencias Tecnológicas.
 
 ## Mis Habilidades 🛠️
 
-- 💡 Resolución creativa de problemas y enfoque en la calidad
-- 🧰 Conociento en tecnologias de .NET, desarrollo front-end y back-end
-- 📊 Experiencia en desarrollo ágil, control de versiones con Git (GitHub), y despliegue en la Nube (Microsoft Azure)
-- 📝 Comunicación efectiva y trabajo en equipo
+- 💡 Resolución creativa de problemas y enfoque en la calidad.
+- 🧰 Conociento en tecnologias de .NET, desarrollo front-end y back-end.
+- 📊 Experiencia en desarrollo ágil, control de versiones con Git (GitHub), y despliegue en la Nube (Microsoft Azure).
+- 📝 Comunicación efectiva y trabajo en equipo.
 
 ## Proyectos Destacados ✨
 
