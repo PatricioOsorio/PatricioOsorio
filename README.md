@@ -1,6 +1,6 @@
-# ¡Bienvenido a mi Perfil de GitHub! 👋
+# ¡Hola! soy Patricio Miguel Osorio Osorio
 
-¡Hola! Soy Patricio Miguel Osorio Osorio, un apasionado del desarrollo de software y la tecnología. ¡Bienvenido a mi espacio en GitHub! Aquí encontrarás una colección de mis proyectos, contribuciones y exploraciones en el mundo del código.
+¡Bienvenido a mi Perfil de GitHub!👋, soy un apasionado del desarrollo de software y la tecnología. ¡Bienvenido a mi espacio en GitHub! Aquí encontrarás una colección de mis proyectos, contribuciones y exploraciones en el mundo del código.
 
 ## Acerca de Mí 🚀
 
